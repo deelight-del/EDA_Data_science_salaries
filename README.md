@@ -12,10 +12,10 @@ This dataset was obtained form kaggle and I was inspired by it after completing 
 > during WRangling and EDA, a number of issues were addressed including the changing the data type of some features and removing particular outliers.
 > In the end, the summary of the findings are listed in the notebook, with cogent information about what affects the salary of a datascientist
 > At first, it seemed as if the salaries of data scientist increase with increasing year. 
-In orrder to properly evaluate this, we decided to hold the experience level constant (Only used senior level),
+In order to properly evaluate this, we decided to hold the experience level constant (Only used senior level),
 and we discovered that the year did not actually have much to do with the increasing salaries.
 
-> We discovered that with the increasing year, there seem to be more Senior level or higher roles ratio that 2020.
+> We discovered that with the increasing year, there seem to be more Senior level or higher roles ratio than 2020.
 We also discovered that the two highest paid salaries jobb actually do not have entry levels. So they
 are roles only attached to higher levels and came into play after 2020.
 
