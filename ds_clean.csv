@@ -1,0 +1,606 @@
+work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,employee_residence_iso,company_location_iso
+2020-01-01,Mid-level,Full Time,Data Scientist,79833,Germany,<20% Remote,Germany,Large,DEU,DEU
+2020-01-01,Senior-level,Full Time,Machine Learning,260000,Japan,<20% Remote,Japan,Small,JPN,JPN
+2020-01-01,Senior-level,Full Time,Data Engineer,109024,United Kingdom,Partial Remote,United Kingdom,Medium,GBR,GBR
+2020-01-01,Mid-level,Full Time,Data Analyst,20000,Honduras,<20% Remote,Honduras,Small,HND,HND
+2020-01-01,Senior-level,Full Time,Machine Learning,150000,United States,Partial Remote,United States,Large,USA,USA
+2020-01-01,Entry-level,Full Time,Data Analyst,72000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Senior-level,Full Time,Data Scientist,190000,United States,>80% Remote,United States,Small,USA,USA
+2020-01-01,Mid-level,Full Time,Data Scientist,35735,Hungary,Partial Remote,Hungary,Large,HUN,HUN
+2020-01-01,Mid-level,Full Time,Data Analyst,135000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Senior-level,Full Time,Data Engineer,125000,New Zealand,Partial Remote,New Zealand,Small,NZL,NZL
+2020-01-01,Entry-level,Full Time,Data Scientist,51321,France,<20% Remote,France,Small,FRA,FRA
+2020-01-01,Mid-level,Full Time,Data Scientist,40481,India,<20% Remote,India,Large,IND,IND
+2020-01-01,Entry-level,Full Time,Data Scientist,39916,France,<20% Remote,France,Medium,FRA,FRA
+2020-01-01,Mid-level,Full Time,Data Analyst,87000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Analyst,85000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Analyst,8000,Pakistan,Partial Remote,Pakistan,Large,PAK,PAK
+2020-01-01,Entry-level,Full Time,Data Engineer,41689,Japan,>80% Remote,Japan,Small,JPN,JPN
+2020-01-01,Senior-level,Full Time,Data Engineer,114047,Poland,>80% Remote,United Kingdom,Small,POL,GBR
+2020-01-01,Entry-level,Full Time,Data Scientist,5707,India,Partial Remote,India,Medium,IND,IND
+2020-01-01,Mid-level,Full Time,Data Engineer,56000,Portugal,>80% Remote,United States,Medium,PRT,USA
+2020-01-01,Mid-level,Full Time,Machine Learning,43331,China,<20% Remote,China,Medium,CHN,CHN
+2020-01-01,Mid-level,Full Time,Data Analyst,6072,India,>80% Remote,India,Large,IND,IND
+2020-01-01,Senior-level,Full Time,Data Engineer,47899,Greece,Partial Remote,Greece,Large,GRC,GRC
+2020-01-01,Mid-level,Full Time,Data Analyst,98000,United States,<20% Remote,United States,Medium,USA,USA
+2020-01-01,Mid-level,Full Time,Data Scientist,115000,United Arab Emirates,<20% Remote,United Arab Emirates,Large,ARE,ARE
+2020-01-01,Executive-level,Full Time,Data Scientist,325000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Entry-level,Full Time,research scientist,42000,Netherlands,Partial Remote,Netherlands,Large,NLD,NLD
+2020-01-01,Senior-level,Full Time,Data Engineer,33511,Mexico,<20% Remote,Mexico,Small,MEX,MEX
+2020-01-01,Entry-level,Contract,Data Analyst,100000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Senior-level,Full Time,Machine Learning,117104,Canada,Partial Remote,Canada,Large,CAN,CAN
+2020-01-01,Mid-level,Full Time,Data Engineer,59303,Germany,>80% Remote,Germany,Small,DEU,DEU
+2020-01-01,Entry-level,Full Time,Data Engineer,70000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Senior-level,Full Time,Data Scientist,68428,Greece,>80% Remote,United States,Large,GRC,USA
+2020-01-01,Mid-level,Full Time,research scientist,450000,United States,<20% Remote,United States,Medium,USA,USA
+2020-01-01,Mid-level,Full Time,Data Analyst,46759,France,Partial Remote,France,Large,FRA,FRA
+2020-01-01,Mid-level,Full Time,Data Engineer,74130,Austria,Partial Remote,Austria,Large,AUT,AUT
+2020-01-01,Mid-level,Full Time,Data Scientist,103000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Entry-level,Full Time,Data Analyst,10000,Nigeria,>80% Remote,Nigeria,Small,NGA,NGA
+2020-01-01,Entry-level,Full Time,Machine Learning,138000,United States,>80% Remote,United States,Small,USA,USA
+2020-01-01,Mid-level,Full Time,Data Scientist,45760,Philippines,>80% Remote,United States,Small,PHL,USA
+2020-01-01,Executive-level,Full Time,Data Engineer,79833,Spain,Partial Remote,Spain,Large,ESP,ESP
+2020-01-01,Mid-level,Full Time,Machine Learning,50180,Portugal,<20% Remote,Portugal,Medium,PRT,PRT
+2020-01-01,Mid-level,Full Time,Data Engineer,106000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Engineer,112872,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2020-01-01,Entry-level,Part Time,Machine Learning,15966,Germany,>80% Remote,Germany,Small,DEU,DEU
+2020-01-01,Mid-level,Full Time,Data Scientist,76958,United Kingdom,>80% Remote,United Kingdom,Small,GBR,GBR
+2020-01-01,Senior-level,Full Time,Data Engineer,188000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Scientist,105000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Engineer,70139,France,Partial Remote,France,Large,FRA,FRA
+2020-01-01,Entry-level,Full Time,Data Analyst,6072,India,<20% Remote,India,Small,IND,IND
+2020-01-01,Entry-level,Full Time,Data Analyst,91000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Entry-level,Full Time,Machine Learning,45896,Denmark,Partial Remote,Denmark,Small,DNK,DNK
+2020-01-01,Entry-level,Full Time,Data Engineer,54742,Pakistan,>80% Remote,Germany,Large,PAK,DEU
+2020-01-01,Senior-level,Freelance,Machine Learning,60000,Russian Federation,>80% Remote,United States,Small,RUS,USA
+2020-01-01,Senior-level,Full Time,Data Scientist,148261,Germany,>80% Remote,Germany,Medium,DEU,DEU
+2020-01-01,Mid-level,Full Time,Data Scientist,38776,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2020-01-01,Mid-level,Full Time,Data Scientist,118000,United States,>80% Remote,United States,Medium,USA,USA
+2020-01-01,Senior-level,Full Time,Data Scientist,120000,United States,Partial Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Scientist,138350,United States,>80% Remote,United States,Medium,USA,USA
+2020-01-01,Mid-level,Full Time,Data Engineer,110000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Mid-level,Full Time,Data Engineer,130800,Spain,>80% Remote,United States,Medium,ESP,USA
+2020-01-01,Entry-level,Part Time,Data Scientist,21669,Italy,Partial Remote,Italy,Small,ITA,ITA
+2020-01-01,Senior-level,Full Time,Data Scientist,412000,United States,>80% Remote,United States,Large,USA,USA
+2020-01-01,Senior-level,Full Time,Machine Learning,45618,Croatia,>80% Remote,Croatia,Small,HRV,HRV
+2020-01-01,Entry-level,Full Time,Data Scientist,62726,Germany,Partial Remote,Germany,Small,DEU,DEU
+2020-01-01,Entry-level,Full Time,Data Scientist,49268,Germany,<20% Remote,Germany,Small,DEU,DEU
+2020-01-01,Senior-level,Full Time,Data Scientist,190200,United States,>80% Remote,United States,Medium,USA,USA
+2020-01-01,Entry-level,Full Time,Data Scientist,105000,United States,>80% Remote,United States,Small,USA,USA
+2020-01-01,Senior-level,Full Time,Data Scientist,91237,Austria,<20% Remote,Austria,Small,AUT,AUT
+2020-01-01,Mid-level,Full Time,Data Scientist,62726,France,Partial Remote,Luxembourg,Small,FRA,LUX
+2020-01-01,Mid-level,Full Time,Data Scientist,42197,France,Partial Remote,France,Small,FRA,FRA
+2021-01-01,Entry-level,Full Time,research scientist,82528,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Executive-level,Full Time,Data Analyst,150000,India,>80% Remote,United States,Large,IND,USA
+2021-01-01,Executive-level,Full Time,Data Scientist,235000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,53192,France,Partial Remote,France,Large,FRA,FRA
+2021-01-01,Mid-level,Full Time,Data Analyst,100000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Part Time,Machine Learning,5409,India,Partial Remote,India,Medium,IND,IND
+2021-01-01,Mid-level,Contract,Machine Learning,270000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Analyst,80000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,79197,Germany,>80% Remote,Germany,Large,DEU,DEU
+2021-01-01,Mid-level,Full Time,Data Engineer,140000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,54238,United Kingdom,Partial Remote,Canada,Large,GBR,CAN
+2021-01-01,Mid-level,Full Time,Machine Learning,47282,Spain,>80% Remote,Spain,Small,ESP,ESP
+2021-01-01,Executive-level,Full Time,Data Scientist,153667,Italy,>80% Remote,Poland,Large,ITA,POL
+2021-01-01,Mid-level,Full Time,Data Engineer,28476,Poland,>80% Remote,Poland,Large,POL,POL
+2021-01-01,Entry-level,Full Time,Data Analyst,59102,France,Partial Remote,France,Medium,FRA,FRA
+2021-01-01,Mid-level,Full Time,Data Analyst,110000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,170000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,80000,Bulgaria,>80% Remote,United States,Small,BGR,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,88654,Greece,>80% Remote,Denmark,Large,GRC,DNK
+2021-01-01,Entry-level,Full Time,Data Scientist,76833,Germany,>80% Remote,Germany,Small,DEU,DEU
+2021-01-01,Mid-level,Full Time,Data Analyst,19609,India,>80% Remote,India,Large,IND,IND
+2021-01-01,Senior-level,Full Time,Data Engineer,276000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,29751,India,Partial Remote,India,Large,IND,IND
+2021-01-01,Mid-level,Full Time,Data Engineer,89294,Singapore,Partial Remote,Singapore,Large,SGP,SGP
+2021-01-01,Entry-level,Part Time,Machine Learning,12000,Brazil,>80% Remote,United States,Small,BRA,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,450000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Machine Learning,70000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Machine Learning,95746,Germany,>80% Remote,United States,Small,DEU,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,75000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,150000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,36259,Hungary,Partial Remote,United States,Large,HUN,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,62000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,73000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,51519,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Mid-level,Full Time,research scientist,187442,Canada,>80% Remote,Canada,Large,CAN,CAN
+2021-01-01,Senior-level,Full Time,Data Engineer,115000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,150000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Entry-level,Full Time,Data Engineer,30428,India,>80% Remote,India,Large,IND,IND
+2021-01-01,Senior-level,Full Time,Machine Learning,94564,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Senior-level,Full Time,Data Engineer,113476,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2021-01-01,Senior-level,Full Time,Data Engineer,103160,United Kingdom,>80% Remote,United Kingdom,Small,GBR,GBR
+2021-01-01,Entry-level,Part Time,Machine Learning,12000,Pakistan,>80% Remote,United States,Medium,PAK,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,45391,Netherlands,>80% Remote,Netherlands,Large,NLD,NLD
+2021-01-01,Mid-level,Full Time,Data Scientist,50000,Nigeria,>80% Remote,Nigeria,Large,NGA,NGA
+2021-01-01,Mid-level,Full Time,Data Scientist,40189,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2021-01-01,Entry-level,Full Time,Data Analyst,90000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,200000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,60000,Spain,Partial Remote,Romania,Medium,ESP,ROU
+2021-01-01,Senior-level,Full Time,Data Engineer,200000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Entry-level,Full Time,Data Analyst,50000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,110037,United Kingdom,<20% Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Entry-level,Part Time,Data Analyst,10354,Spain,Partial Remote,Spain,Medium,ESP,ESP
+2021-01-01,Mid-level,Full Time,Data Scientist,151000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Machine Learning,120000,United States,Partial Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,9466,India,<20% Remote,India,Small,IND,IND
+2021-01-01,Entry-level,Full Time,Machine Learning,20000,India,>80% Remote,India,Small,IND,IND
+2021-01-01,Senior-level,Full Time,Data Scientist,40570,India,Partial Remote,India,Large,IND,IND
+2021-01-01,Entry-level,Full Time,Machine Learning,100000,Iraq,Partial Remote,Iraq,Small,IRQ,IRQ
+2021-01-01,Entry-level,Full Time,Data Scientist,49646,France,Partial Remote,France,Medium,FRA,FRA
+2021-01-01,Mid-level,Full Time,Machine Learning,38400,Viet Nam,>80% Remote,United States,Medium,VNM,USA
+2021-01-01,Senior-level,Full Time,Machine Learning,24000,Brazil,>80% Remote,Brazil,Medium,BRA,BRA
+2021-01-01,Entry-level,Full Time,Data Scientist,100000,United States,<20% Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,90000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Machine Learning,63711,Japan,Partial Remote,Japan,Small,JPN,JPN
+2021-01-01,Mid-level,Full Time,Machine Learning,77364,Japan,Partial Remote,Japan,Small,JPN,JPN
+2021-01-01,Senior-level,Full Time,Data Scientist,220000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,80000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Analyst,135000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,240000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,150000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,82500,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,100000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Machine Learning,82744,Belgium,Partial Remote,Belgium,Medium,BEL,BEL
+2021-01-01,Mid-level,Full Time,research scientist,62649,France,Partial Remote,France,Medium,FRA,FRA
+2021-01-01,Mid-level,Full Time,Data Engineer,90000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,153000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,160000,Brazil,>80% Remote,United States,Small,BRA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,168000,Japan,<20% Remote,Japan,Small,JPN,JPN
+2021-01-01,Mid-level,Full Time,Data Scientist,150000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,75774,Canada,>80% Remote,Canada,Large,CAN,CAN
+2021-01-01,Entry-level,Full Time,Data Scientist,13400,Ukraine,>80% Remote,Ukraine,Large,UKR,UKR
+2021-01-01,Senior-level,Full Time,Data Scientist,144000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,127221,Canada,Partial Remote,Canada,Large,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Scientist,119059,Singapore,>80% Remote,Israel,Medium,SGP,ISR
+2021-01-01,Mid-level,Full Time,Machine Learning,423000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,120000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Entry-level,Full Time,Machine Learning,125000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Executive-level,Full Time,Data Scientist,230000,Russian Federation,Partial Remote,Russian Federation,Large,RUS,RUS
+2021-01-01,Executive-level,Full Time,Data Scientist,85000,Russian Federation,<20% Remote,Russian Federation,Medium,RUS,RUS
+2021-01-01,Mid-level,Full Time,Data Engineer,28369,Malta,Partial Remote,Malta,Large,MLT,MLT
+2021-01-01,Entry-level,Full Time,Data Scientist,63831,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Executive-level,Full Time,Data Scientist,130026,Germany,Partial Remote,Germany,Medium,DEU,DEU
+2021-01-01,Senior-level,Full Time,Data Scientist,165000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Engineer,80000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Executive-level,Full Time,Data Scientist,250000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Analyst,55000,United States,Partial Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Architect,150000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Architect,170000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,82528,United Kingdom,>80% Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Entry-level,Full Time,Data Analyst,60000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,235000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,research scientist,60757,Portugal,Partial Remote,Portugal,Large,PRT,PRT
+2021-01-01,Senior-level,Full Time,Data Engineer,174000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,2859,Mexico,<20% Remote,Mexico,Small,MEX,MEX
+2021-01-01,Mid-level,Full Time,Data Scientist,40038,Chile,>80% Remote,Chile,Large,CHL,CHL
+2021-01-01,Entry-level,Full Time,Machine Learning,81000,United States,Partial Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,5679,India,>80% Remote,United States,Small,IND,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,22611,India,<20% Remote,India,Large,IND,IND
+2021-01-01,Mid-level,Full Time,Data Scientist,90734,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Mid-level,Full Time,Data Engineer,26005,Romania,<20% Remote,United States,Large,ROU,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,61896,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Mid-level,Freelance,Machine Learning,12000,Pakistan,Partial Remote,Pakistan,Medium,PAK,PAK
+2021-01-01,Mid-level,Full Time,Data Engineer,4000,"Iran, Islamic Republic of",>80% Remote,"Iran, Islamic Republic of",Medium,IRN,IRN
+2021-01-01,Senior-level,Full Time,Data Analyst,50000,Viet Nam,>80% Remote,United Kingdom,Medium,VNM,GBR
+2021-01-01,Executive-level,Full Time,Data Scientist,69741,France,>80% Remote,Spain,Small,FRA,ESP
+2021-01-01,Senior-level,Full Time,Data Engineer,76833,Romania,Partial Remote,United Kingdom,Small,ROU,GBR
+2021-01-01,Mid-level,Full Time,Machine Learning,74000,Japan,Partial Remote,Japan,Small,JPN,JPN
+2021-01-01,Senior-level,Full Time,Data Scientist,152000,United States,>80% Remote,France,Large,USA,FRA
+2021-01-01,Entry-level,Full Time,Machine Learning,21844,Colombia,Partial Remote,Colombia,Medium,COL,COL
+2021-01-01,Mid-level,Full Time,Data Engineer,18000,"Moldova, Republic of",<20% Remote,"Moldova, Republic of",Small,MDA,MDA
+2021-01-01,Senior-level,Full Time,Data Scientist,174000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,research scientist,96113,Canada,Partial Remote,Canada,Large,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Scientist,147000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Analyst,9272,Kenya,>80% Remote,Kenya,Small,KEN,KEN
+2021-01-01,Senior-level,Full Time,Machine Learning,24342,India,>80% Remote,India,Large,IND,IND
+2021-01-01,Senior-level,Full Time,Data Scientist,54094,India,Partial Remote,United States,Large,IND,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,90000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,61467,Germany,Partial Remote,Austria,Medium,DEU,AUT
+2021-01-01,Senior-level,Full Time,Machine Learning,195000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,37825,Spain,>80% Remote,Spain,Large,ESP,ESP
+2021-01-01,Senior-level,Full Time,research scientist,50000,France,>80% Remote,United States,Small,FRA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,160000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,12901,Brazil,<20% Remote,Brazil,Small,BRA,BRA
+2021-01-01,Senior-level,Full Time,Machine Learning,200000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,165000,United States,<20% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Freelance,Data Engineer,20000,Italy,<20% Remote,United States,Large,ITA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,120000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Machine Learning,24823,Slovenia,Partial Remote,Slovenia,Large,SVN,SVN
+2021-01-01,Mid-level,Full Time,research scientist,56738,France,Partial Remote,France,Small,FRA,FRA
+2021-01-01,Mid-level,Full Time,Data Engineer,66022,Hong Kong,Partial Remote,United Kingdom,Small,HKG,GBR
+2021-01-01,Entry-level,Full Time,Data Engineer,5882,India,<20% Remote,Switzerland,Large,IND,CHE
+2021-01-01,Entry-level,Full Time,Machine Learning,24823,Germany,Partial Remote,Germany,Medium,DEU,DEU
+2021-01-01,Senior-level,Full Time,Data Engineer,185000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Part Time,Machine Learning,28609,Denmark,Partial Remote,Denmark,Small,DNK,DNK
+2021-01-01,Mid-level,Full Time,Data Scientist,90734,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Mid-level,Full Time,Machine Learning,88654,Belgium,>80% Remote,Belgium,Medium,BEL,BEL
+2021-01-01,Senior-level,Full Time,Data Analyst,140000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Machine Learning,46597,Poland,>80% Remote,Poland,Large,POL,POL
+2021-01-01,Mid-level,Full Time,Data Scientist,116914,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Mid-level,Full Time,Data Scientist,33808,India,<20% Remote,India,Medium,IND,IND
+2021-01-01,Mid-level,Full Time,Data Scientist,56256,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Senior-level,Full Time,Machine Learning,225000,United States,>80% Remote,Canada,Large,USA,CAN
+2021-01-01,Executive-level,Contract,Data Scientist,416000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,87738,Canada,>80% Remote,Canada,Small,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Scientist,88654,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Senior-level,Full Time,Data Scientist,135000,United States,<20% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,71786,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2021-01-01,Entry-level,Full Time,Data Engineer,16228,India,>80% Remote,India,Large,IND,IND
+2021-01-01,Senior-level,Full Time,Machine Learning,256000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Senior-level,Full Time,Data Engineer,200000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,200000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Architect,180000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,110000,United States,<20% Remote,United States,Small,USA,USA
+2021-01-01,Mid-level,Full Time,research scientist,63810,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Scientist,46809,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2021-01-01,Entry-level,Full Time,Data Scientist,4000,Viet Nam,<20% Remote,Viet Nam,Medium,VNM,VNM
+2021-01-01,Entry-level,Full Time,Data Engineer,21637,India,Partial Remote,India,Medium,IND,IND
+2021-01-01,Senior-level,Full Time,Data Scientist,103691,Canada,>80% Remote,Canada,Large,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Analyst,80000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,110000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,165000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Machine Learning,18053,India,>80% Remote,American Samoa,Small,IND,ASM
+2021-01-01,Mid-level,Full Time,Data Engineer,72212,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Entry-level,Full Time,Data Scientist,36643,France,Partial Remote,France,Large,FRA,FRA
+2021-01-01,Mid-level,Full Time,Data Engineer,12103,Turkey,<20% Remote,Turkey,Medium,TUR,TUR
+2021-01-01,Senior-level,Full Time,Data Engineer,96282,United Kingdom,Partial Remote,United Kingdom,Large,GBR,GBR
+2021-01-01,Senior-level,Full Time,Data Analyst,170000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Scientist,115000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,90000,United States,>80% Remote,United States,Small,USA,USA
+2021-01-01,Executive-level,Full Time,Data Engineer,600000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,28399,India,>80% Remote,India,Medium,IND,IND
+2021-01-01,Mid-level,Full Time,Data Analyst,93000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Architect,99703,Canada,Partial Remote,Canada,Medium,CAN,CAN
+2021-01-01,Mid-level,Full Time,Data Engineer,200000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Scientist,173762,Germany,>80% Remote,Germany,Medium,DEU,DEU
+2021-01-01,Senior-level,Full Time,Machine Learning,185000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Executive-level,Full Time,Data Scientist,141846,Germany,<20% Remote,Germany,Large,DEU,DEU
+2021-01-01,Mid-level,Full Time,Data Scientist,130000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Data Analyst,63831,Germany,Partial Remote,Germany,Large,DEU,DEU
+2021-01-01,Mid-level,Full Time,Data Scientist,16904,India,>80% Remote,India,Small,IND,IND
+2021-01-01,Senior-level,Full Time,Machine Learning,66265,India,<20% Remote,India,Large,IND,IND
+2021-01-01,Mid-level,Full Time,Data Scientist,25532,Serbia,>80% Remote,Germany,Small,SRB,DEU
+2021-01-01,Senior-level,Full Time,Data Engineer,160000,Puerto Rico,Partial Remote,United States,Small,PRI,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,93150,United States,<20% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,111775,United States,<20% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,Data Engineer,28016,Turkey,>80% Remote,Turkey,Medium,TUR,TUR
+2021-01-01,Entry-level,Full Time,Data Engineer,65013,Germany,Partial Remote,Germany,Medium,DEU,DEU
+2021-01-01,Entry-level,Full Time,Data Engineer,72500,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Machine Learning,18907,Brazil,<20% Remote,Brazil,Medium,BRA,BRA
+2021-01-01,Entry-level,Full Time,Data Scientist,76833,Germany,<20% Remote,Germany,Large,DEU,DEU
+2021-01-01,Entry-level,Full Time,Machine Learning,85000,Netherlands,>80% Remote,Germany,Small,NLD,DEU
+2021-01-01,Senior-level,Full Time,Data Scientist,77684,France,Partial Remote,France,Medium,FRA,FRA
+2021-01-01,Entry-level,Full Time,Data Scientist,100000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Entry-level,Full Time,Data Scientist,58000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Senior-level,Full Time,Machine Learning,55000,Spain,>80% Remote,Spain,Large,ESP,ESP
+2021-01-01,Senior-level,Full Time,Data Scientist,20171,Turkey,Partial Remote,Turkey,Large,TUR,TUR
+2021-01-01,Entry-level,Full Time,Data Analyst,59102,Luxembourg,>80% Remote,Luxembourg,Large,LUX,LUX
+2021-01-01,Mid-level,Full Time,Data Engineer,112000,United States,>80% Remote,United States,Large,USA,USA
+2021-01-01,Entry-level,Full Time,research scientist,100000,Jersey,<20% Remote,China,Large,JEY,CHN
+2021-01-01,Mid-level,Part Time,Data Engineer,69741,Netherlands,>80% Remote,Netherlands,Large,NLD,NLD
+2021-01-01,Senior-level,Contract,Data Scientist,105000,United States,>80% Remote,United States,Medium,USA,USA
+2021-01-01,Mid-level,Full Time,research scientist,69999,Czechia,Partial Remote,Czechia,Large,CZE,CZE
+2021-01-01,Senior-level,Full Time,Data Scientist,94665,India,Partial Remote,India,Large,IND,IND
+2021-01-01,Senior-level,Full Time,Data Scientist,102839,Slovenia,>80% Remote,Slovenia,Large,SVN,SVN
+2021-01-01,Mid-level,Full Time,Data Scientist,109000,United States,Partial Remote,United States,Large,USA,USA
+2021-01-01,Mid-level,Full Time,Machine Learning,51064,Italy,Partial Remote,Italy,Large,ITA,ITA
+2022-01-01,Senior-level,Full Time,Data Engineer,135000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,155000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,120600,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,130000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,90000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,170000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,150000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,102100,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,84900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,136620,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,99360,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,117789,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,104702,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,146000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,123000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Data Engineer,52351,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Analyst,99000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,116000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,106260,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,126500,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Engineer,242000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Engineer,200000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,65438,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Scientist,39263,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,78526,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,52351,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,165220,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Data Engineer,45807,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,120160,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,90320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,181940,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,132320,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,220110,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,160080,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,180000,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,120000,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,124190,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Analyst,130000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Analyst,110000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,170000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,115500,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,112900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,90320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,112900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,90320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,165400,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,132320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,167000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,243900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,136600,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,109280,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,128875,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,93700,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Scientist,224000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Scientist,167875,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,analytics engineer,175000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,156600,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,108800,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,95550,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,113000,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,135000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,161342,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,137141,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,167000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,123000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,78526,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Engineer,65438,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,150000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,211500,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,192400,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Architect,90700,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Analyst,130000,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Analyst,61300,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Analyst,130000,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Analyst,61300,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Engineer,160000,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,138600,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,136000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,58000,United States,<20% Remote,United States,Small,USA,USA
+2022-01-01,Executive-level,Full Time,analytics engineer,135000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,170000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,123000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,189650,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,164996,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,54957,Greece,<20% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Mid-level,Full Time,Data Engineer,54957,Greece,<20% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Executive-level,Full Time,Data Engineer,118187,Canada,>80% Remote,Canada,Small,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Analyst,132000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,165400,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,208775,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,147800,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,136994,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,101570,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,128875,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,93700,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Machine Learning,79039,India,Partial Remote,India,Large,IND,IND
+2022-01-01,Senior-level,Full Time,Data Engineer,132320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Machine Learning,37300,United Kingdom,>80% Remote,United Kingdom,Large,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Analyst,164000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,155000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,124333,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Machine Learning,98158,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Machine Learning,120000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,112900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,90320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,145000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,105400,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,87932,France,>80% Remote,Germany,Medium,FRA,DEU
+2022-01-01,Mid-level,Full Time,Data Engineer,117789,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,215300,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,158200,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,209100,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,154600,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,115934,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,81666,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,175000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,98158,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Analyst,58000,United States,<20% Remote,United States,Small,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,183600,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,52351,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,180000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,71982,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Scientist,45807,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,65949,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Mid-level,Full Time,Data Engineer,49461,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Mid-level,Full Time,Data Engineer,78526,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,58894,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,260000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,60000,Argentina,>80% Remote,Mexico,Large,ARG,MEX
+2022-01-01,Mid-level,Full Time,Data Engineer,63900,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,160000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,112300,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,241000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,159000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,180000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,80000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,82900,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,100800,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,49461,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Senior-level,Full Time,Data Scientist,140400,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,39263,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Analyst,43966,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Mid-level,Full Time,Data Analyst,32974,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Mid-level,Full Time,Data Engineer,87932,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Mid-level,Full Time,Data Engineer,76940,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Mid-level,Full Time,Data Engineer,104702,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,91614,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,65949,Spain,>80% Remote,Spain,Medium,ESP,ESP
+2022-01-01,Mid-level,Full Time,Data Engineer,87932,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Senior-level,Full Time,Machine Learning,189650,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,164996,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,43966,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Mid-level,Full Time,Data Analyst,32974,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Mid-level,Full Time,Data Engineer,98158,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Engineer,78526,United Kingdom,>80% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,215300,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,76940,Greece,>80% Remote,Greece,Medium,GRC,GRC
+2022-01-01,Senior-level,Full Time,Data Engineer,209100,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,154600,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,180000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Machine Learning,21983,Portugal,>80% Remote,Portugal,Large,PRT,PRT
+2022-01-01,Senior-level,Full Time,Data Engineer,80000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,78791,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Executive-level,Full Time,Data Scientist,196979,Canada,Partial Remote,Canada,Large,CAN,CAN
+2022-01-01,Mid-level,Full Time,Machine Learning,120000,United States,>80% Remote,United States,Small,USA,USA
+2022-01-01,Entry-level,Full Time,Machine Learning,125000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,37236,United States,Partial Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,105000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,87932,Germany,<20% Remote,Germany,Medium,DEU,DEU
+2022-01-01,Mid-level,Full Time,Data Analyst,18442,India,>80% Remote,India,Medium,IND,IND
+2022-01-01,Mid-level,Full Time,Data Scientist,31615,India,>80% Remote,India,Large,IND,IND
+2022-01-01,Mid-level,Full Time,Machine Learning,58255,Portugal,Partial Remote,Portugal,Large,PRT,PRT
+2022-01-01,Entry-level,Full Time,Data Analyst,100000,United States,Partial Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Part Time,Data Engineer,54957,Germany,Partial Remote,Germany,Large,DEU,DEU
+2022-01-01,Entry-level,Full Time,Data Scientist,18442,India,>80% Remote,India,Medium,IND,IND
+2022-01-01,Senior-level,Full Time,Data Scientist,162674,Germany,>80% Remote,Germany,Medium,DEU,DEU
+2022-01-01,Entry-level,Full Time,Data Engineer,120000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,research scientist,144000,United States,Partial Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,104890,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,100000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,135000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,50000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,220000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,183228,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Mid-level,Full Time,Data Scientist,91614,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,185100,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,220000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,200000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,120000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,120000,United Arab Emirates,>80% Remote,United Arab Emirates,Small,ARE,ARE
+2022-01-01,Senior-level,Full Time,Machine Learning,65000,United Arab Emirates,>80% Remote,United Arab Emirates,Small,ARE,ARE
+2022-01-01,Executive-level,Full Time,Data Engineer,324000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Executive-level,Full Time,Data Engineer,216000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,210000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,120000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,230000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Part Time,Data Scientist,100000,Algeria,Partial Remote,Algeria,Medium,DZA,DZA
+2022-01-01,Mid-level,Freelance,Data Scientist,100000,Canada,>80% Remote,United States,Medium,CAN,USA
+2022-01-01,Entry-level,Contract,Machine Learning,31875,Tunisia,>80% Remote,Czechia,Medium,TUN,CZE
+2022-01-01,Senior-level,Full Time,Data Scientist,200000,Malaysia,>80% Remote,United States,Medium,MYS,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,75000,Canada,>80% Remote,Canada,Small,CAN,CAN
+2022-01-01,Mid-level,Full Time,Data Scientist,35590,Poland,>80% Remote,Poland,Large,POL,POL
+2022-01-01,Senior-level,Full Time,Machine Learning,78791,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Scientist,100000,Brazil,>80% Remote,United States,Medium,BRA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,153000,United States,Partial Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Data Engineer,58035,Pakistan,>80% Remote,Germany,Medium,PAK,DEU
+2022-01-01,Senior-level,Full Time,Data Scientist,165000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,research scientist,93427,France,Partial Remote,France,Large,FRA,FRA
+2022-01-01,Entry-level,Full Time,Data Scientist,52396,Canada,>80% Remote,Canada,Large,CAN,CAN
+2022-01-01,Senior-level,Full Time,Machine Learning,62651,Netherlands,>80% Remote,Netherlands,Large,NLD,NLD
+2022-01-01,Mid-level,Full Time,Data Scientist,32974,Estonia,>80% Remote,Estonia,Small,EST,EST
+2022-01-01,Entry-level,Full Time,Data Scientist,40000,Japan,>80% Remote,Malaysia,Large,JPN,MYS
+2022-01-01,Mid-level,Full Time,Machine Learning,87425,Australia,>80% Remote,Australia,Large,AUS,AUS
+2022-01-01,Senior-level,Full Time,Data Engineer,115000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Data Scientist,86703,Australia,Partial Remote,Australia,Medium,AUS,AUS
+2022-01-01,Mid-level,Full Time,Machine Learning,75000,"Bolivia, Plurinational State of",>80% Remote,United States,Large,BOL,USA
+2022-01-01,Mid-level,Full Time,research scientist,64849,Austria,<20% Remote,Austria,Large,AUT,AUT
+2022-01-01,Entry-level,Full Time,research scientist,120000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,157000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Entry-level,Full Time,Machine Learning,150000,Australia,>80% Remote,Australia,Small,AUS,AUS
+2022-01-01,Mid-level,Full Time,Data Analyst,70912,Canada,Partial Remote,Canada,Large,CAN,CAN
+2022-01-01,Entry-level,Full Time,Data Engineer,65000,United States,>80% Remote,United States,Small,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,71444,Ireland,>80% Remote,Ireland,Small,IRL,IRL
+2022-01-01,Entry-level,Full Time,Data Analyst,20000,Pakistan,<20% Remote,Pakistan,Medium,PAK,PAK
+2022-01-01,Mid-level,Full Time,Data Scientist,48000,Russian Federation,>80% Remote,United States,Small,RUS,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,152500,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,68147,France,>80% Remote,France,Medium,FRA,FRA
+2022-01-01,Mid-level,Full Time,Data Scientist,122346,Switzerland,<20% Remote,Switzerland,Large,CHE,CHE
+2022-01-01,Senior-level,Full Time,Data Scientist,380000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,69336,Canada,>80% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Entry-level,Full Time,Machine Learning,10000,Portugal,>80% Remote,Luxembourg,Medium,PRT,LUX
+2022-01-01,Mid-level,Full Time,Data Analyst,20000,Greece,>80% Remote,Greece,Small,GRC,GRC
+2022-01-01,Senior-level,Full Time,Data Analyst,405000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,135000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,177000,United States,>80% Remote,United States,Large,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,78000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,135000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,100000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,90320,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,85000,Canada,<20% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Mid-level,Full Time,Data Analyst,75000,Canada,<20% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Machine Learning,214000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Machine Learning,192600,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,266400,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,213120,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,112900,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,155000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,141300,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,102100,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,115934,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,81666,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,206699,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Engineer,99100,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,130000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,115000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,110500,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,130000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,99050,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,160000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,205300,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140400,United States,<20% Remote,United States,Large,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,176000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,144000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,200100,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,160000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,145000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,70500,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,205300,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140400,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,analytics engineer,205300,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,analytics engineer,184700,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,175100,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,140250,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,116150,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,54000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,170000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,65438,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Analyst,80000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,210000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,100000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,69000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,210000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,210000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,150075,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,100000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,25000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,126500,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,106260,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,220110,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,160080,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,105000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,110925,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Analyst,45807,United Kingdom,<20% Remote,United Kingdom,Medium,GBR,GBR
+2022-01-01,Senior-level,Full Time,Data Scientist,140000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,99000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,60000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,192564,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Architect,144854,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,230000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,150000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,150260,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,109280,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Scientist,210000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,170000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,160000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Data Scientist,130000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Entry-level,Full Time,Data Analyst,67000,Canada,<20% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Entry-level,Full Time,Data Analyst,52000,Canada,<20% Remote,Canada,Medium,CAN,CAN
+2022-01-01,Senior-level,Full Time,Data Engineer,154000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Engineer,126000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,129000,United States,<20% Remote,United States,Medium,USA,USA
+2022-01-01,Senior-level,Full Time,Data Analyst,150000,United States,>80% Remote,United States,Medium,USA,USA
+2022-01-01,Mid-level,Full Time,Machine Learning,200000,India,>80% Remote,United States,Large,IND,USA
